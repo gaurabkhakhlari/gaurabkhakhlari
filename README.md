@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurabkhakhlari&label=Profile%20views&color=0e75b6&style=flat" alt="gaurabkhakhlari" /> </p>
 
-- 🔭 I’m Currently Studying Computer Science **Image classification using ML**
+- 🔭 I’m Currently Studying Computer Science 
 
 - 🌱 I’m currently learning **Machine learning**
 
