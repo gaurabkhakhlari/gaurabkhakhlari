@@ -1,4 +1,4 @@
-![logo](https://github.com/gaurabkhakhlari/gaurabkhakhlari/blob/master/40d8ea_00122ef695fe489a80444c2e1c5e9c7a%7Emv2.gif)
+![logo](https://github.com/gaurabkhakhlari/gaurabkhakhlari/blob/master/wnhJXkg9FM3P.gif)
 <h1 align="center">Hi 👋, I'm Gaurab Khakhlari</h1>
 <h3 align="center">A passionate full-stack developer from 127.0.0.1</h3>
 <img align ="right" alt="hell" src="https://github.com/gaurabkhakhlari/gaurabkhakhlari/blob/master/tumblr_nv44lndz1l1u6xnmoo1_1280.gif" width="400">
